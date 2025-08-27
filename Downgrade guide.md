@@ -1,6 +1,6 @@
 **Last updated: 27.08.2025 Source: Official HQHQ discord server**
 
-Another languages: ![Russian](https://github.com/KanadeMC/HQHQ/blob/main/Ru/Downgrade%20guide.md)
+Another languages: ![RU](https://github.com/KanadeMC/HQHQ/blob/main/Ru/Downgrade%20guide.md)
 
 1. WIN+R
 2. type `steam://open/console`
