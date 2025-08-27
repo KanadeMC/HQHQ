@@ -1,7 +1,5 @@
 **Last updated: 27.08.2025 Source: Official HQHQ discord server**
 
-Another languages: ![Russian][ru/readme.md]
-
 1. WIN+R
 2. type `steam://open/console`
 3. to steam console type `download_depot 1966720 1966721 (manifestID)`
